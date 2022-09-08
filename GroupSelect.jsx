@@ -7,7 +7,7 @@ Pre Requisite:- The script needs to be run after making a group selection in the
 Warning :- No elaborate error checking
 
 Author:- Manan Joshi
-Guthub Repo :- https://github.com/Manan-Joshi/Photoshop-Scripts.git
+Github Repo :- https://github.com/Manan-Joshi/Photoshop-Scripts.git
 */
 
 var s2t = stringIDToTypeID;
